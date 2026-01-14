@@ -1,0 +1,2 @@
+# RSVP Speed Reader
+# No external dependencies required - uses Python's built-in tkinter
